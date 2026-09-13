@@ -1,0 +1,204 @@
+text,intent_label
+Let Mom know I reached home,send_message
+Should I wear shorts today?,ask_weather
+Music,unknown_intent
+How cold is it in New York?,ask_weather
+Set a reminder for noon,set_alarm
+How's it outside?,unknown_intent
+Play my favorite playlist,play_music
+How to say 'where is the bathroom' in Portuguese?,translate_text
+I need some study music,play_music
+I'd like to hear some hip hop,play_music
+Tell John to bring the documents,send_message
+Tell me something funny,general_query
+Put on something cheerful,play_music
+Message my neighbor about the package,send_message
+How do I say 'excuse me' in French?,translate_text
+What is photosynthesis?,general_query
+Play the Top 50 Global chart,play_music
+Text John that the meeting is at 5,send_message
+Put on that new song by Taylor Swift,play_music
+Tell me the forecast,ask_weather
+Play traditional qawwali,play_music
+Play Coke Studio songs,play_music
+I want to wake up at 8 tomorrow,set_alarm
+Tell me an interesting fact,general_query
+What day is it today?,general_query
+What's the weather report?,ask_weather
+Start playing jazz music,play_music
+Can we listen to some 90s hits?,play_music
+Send a quick text to my friend,send_message
+Do I need an umbrella today?,ask_weather
+What are the seven wonders of the world?,general_query
+I want to listen to some rock,play_music
+Play some background music,play_music
+Who is the president of the US?,general_query
+Can you wake me up at 5 AM,set_alarm
+Remind me in an hour,set_alarm
+Can you translate my name to Arabic?,translate_text
+Can you text my brother?,send_message
+Play the next track,play_music
+Is it going to be sunny this weekend?,ask_weather
+Tell Sarah I forgot my keys,send_message
+Can you set a timer for 5 minutes,set_alarm
+What is the meaning of 'bonjour'?,translate_text
+Play acoustic guitar music,play_music
+Put on some heavy metal,play_music
+Translate my message into Spanish,translate_text
+Shuffle my liked songs,play_music
+Message Hassan and say I'm outside,send_message
+Who is the richest person alive?,general_query
+Put on some relaxing music,play_music
+Please wake me at 7 sharp,set_alarm
+Play a random country song,play_music
+Translate from English to Hindi,translate_text
+Wake me up in 30 minutes,set_alarm
+Tell me a joke,general_query
+Tell him,unknown_intent
+Is it going to rain tonight?,ask_weather
+Tell him yes,send_message
+Wake me up bright and early at 6,set_alarm
+Are there any storms expected?,ask_weather
+Is it snowing in London?,ask_weather
+Is a heatwave coming?,ask_weather
+What does 'amigo' mean?,translate_text
+Put an alarm for 8 AM,set_alarm
+How tall is Mount Everest?,general_query
+What's the weather today?,ask_weather
+Is it a good day?,general_query
+Who directed Inception?,general_query
+How long is the Nile river?,general_query
+Translate 'water' to Japanese,translate_text
+Message Ali asking where he is,send_message
+What's the current humidity?,ask_weather
+Play ambient sounds,play_music
+Message the group chat that I'm running late,send_message
+Turn up the volume,general_query
+Is there a chance of rain on Sunday?,ask_weather
+Can you translate 'good morning' to Spanish?,translate_text
+How many continents are there?,general_query
+What is 'apple' in French?,translate_text
+Who wrote Romeo and Juliet?,general_query
+Translate this paragraph to English,translate_text
+Can you shuffle my workout mix?,play_music
+Send a text to confirm the appointment,send_message
+Translate this webpage to English,translate_text
+How do you pronounce this word in French?,translate_text
+When is the next leap year?,general_query
+How hot will it get this afternoon?,ask_weather
+Play my drive time playlist,play_music
+What time is it?,general_query
+Send a message saying we are here,send_message
+How do I say goodbye in German?,translate_text
+Alarm for 9 AM please,set_alarm
+Send an SMS to Bilal,send_message
+What's the speed of light?,general_query
+Can I get an alarm for 8 AM,set_alarm
+Send a message to my manager,send_message
+Is it freezing out there?,ask_weather
+Is it going to be a nice day?,ask_weather
+Tell me the time in London,general_query
+How would I say 'how much is this' in Turkish?,translate_text
+Put on sleep music,play_music
+How is the weather looking for tomorrow?,ask_weather
+Start my morning playlist,play_music
+Who painted the Mona Lisa?,general_query
+Text the babysitter we are on our way,send_message
+Translate this email from Spanish to English,translate_text
+I need to be up by 8,set_alarm
+Play Ali Zafar's new album,play_music
+What is the capital of Japan?,general_query
+Tell him I will call him back,send_message
+Message my wife I love her,send_message
+Will it rain tomorrow?,ask_weather
+Give me the Urdu translation for 'beautiful',translate_text
+Let my friend know I can't make it,send_message
+Set a timer for 10 minutes,set_alarm
+How warm is it going to be?,ask_weather
+What time zone is Karachi in?,general_query
+How do I write 'peace' in Arabic?,translate_text
+Text my sister happy birthday,send_message
+Play something by Atif Aslam,play_music
+What's the AC temperature?,general_query
+Tell me the weather for Friday,ask_weather
+What is the largest ocean?,general_query
+Tell me a story,general_query
+How do airplanes fly?,general_query
+What's the weather going to be like?,ask_weather
+What's the weather tomorrow morning?,ask_weather
+What's 'thank you' in Urdu?,translate_text
+How far is the moon?,general_query
+Text Sara I'm on my way,send_message
+What's the wind speed?,ask_weather
+Start a radio station based on Drake,play_music
+What's the temperature right now?,ask_weather
+Translate 'I love you' to Italian,translate_text
+Set up an alarm for 6,set_alarm
+Is it cold outside?,ask_weather
+Is there any precipitation expected?,ask_weather
+How do I make pancakes?,general_query
+Send a text to my wife,send_message
+Who invented the telephone?,general_query
+How's the weather in Lahore?,ask_weather
+Tell my cousin to call me,send_message
+Text David about the project,send_message
+Wake me up early tomorrow around 5,set_alarm
+Set my morning alarm to 7 AM,set_alarm
+Create an alarm for 7 AM,set_alarm
+Please remind me to call him at 5,set_alarm
+Set alarm for tomorrow morning,set_alarm
+Translate 'see you later' to Russian,translate_text
+What does 'shukriya' mean in English?,translate_text
+Translate 'welcome' to Spanish,translate_text
+Will it be clear tonight?,ask_weather
+I'd like an alarm for 7 in the morning,set_alarm
+What is the square root of 144?,general_query
+Play classical piano,play_music
+Can you translate this document to Chinese?,translate_text
+I want to hear some Bollywood songs,play_music
+Send a message to my doctor,send_message
+Reply to Maryam saying okay,send_message
+Wake me up when it's 8 AM,set_alarm
+Play something chill,play_music
+Turn on my 6 AM alarm,set_alarm
+What is the English translation of 'hola'?,translate_text
+Translate 'delicious' into Japanese,translate_text
+Turn on some party music,play_music
+Tell me something,unknown_intent
+Please set a reminder for 8 o'clock,set_alarm
+Set a snooze for 10 minutes,set_alarm
+Translate this sentence into Arabic,translate_text
+Put on sad songs,play_music
+Text her to buy milk,send_message
+Translate 'happy birthday' to German,translate_text
+I need a 20 minute timer,set_alarm
+Text Dad I need some money,send_message
+What is the formula for water?,general_query
+Please set a wake up call for 7:30,set_alarm
+I need an alarm for 6 AM,set_alarm
+Translate 'hello' and send it to Ali,send_message
+What does 'merci' mean?,translate_text
+Wake me up at 6:30,set_alarm
+How to ask for the bill in Italian?,translate_text
+How much snow are we getting?,ask_weather
+Set a daily alarm for 7 AM,set_alarm
+What is the meaning of life?,general_query
+Can you remind me at 4 o'clock?,set_alarm
+What's this song called?,general_query
+Say that again in Urdu,unknown_intent
+What's the weather like outside?,ask_weather
+Text my mom,send_message
+Who won the match yesterday?,general_query
+Let Sara know I'll call her later,send_message
+Play Nusrat Fateh Ali Khan,play_music
+Make sure I wake up at 7,set_alarm
+What's the weather forecast for Paris?,ask_weather
+Play upbeat songs for a workout,play_music
+What is artificial intelligence?,general_query
+Could you set an alarm for 8:15?,set_alarm
+Set the alarm to 6:45 AM,set_alarm
+What's the translation for this word?,translate_text
+How do you say 'cat' in Spanish?,translate_text
+Is it cloudy right now?,ask_weather
+Tell Mom to check her email,send_message
+Send a message to Dad to pick me up,send_message

@@ -1,0 +1,53 @@
+# IMPORTANT NOTE: data/test_set.csv must remain untouched for the rest of development — it is only to be used for final evaluation, never for training or prompt examples.
+text,intent_label
+Can you help me translate a phrase?,translate_text
+Translate this text into Korean,translate_text
+Will the sun come out today?,ask_weather
+Can you tell me a riddle?,general_query
+What is the forecast for next week?,ask_weather
+Play some indie folk,play_music
+Message my sister about dinner,send_message
+What's the capital of France?,general_query
+Put on a nice instrumental track,play_music
+What's the temperature outside?,ask_weather
+What is the population of China?,general_query
+What is the UV index today?,ask_weather
+Tell Ahmed I'll be late,send_message
+What is the biggest planet?,general_query
+Add an alarm for 9:00,set_alarm
+Remind me at 9 PM,set_alarm
+Let them know we are waiting,send_message
+Play romantic songs,play_music
+Start a timer for 15 minutes,set_alarm
+How do you say hello in French?,translate_text
+Explain this word to me,general_query
+Translate this to Urdu,translate_text
+Give me the weather update,ask_weather
+Play Ed Sheeran on Spotify,play_music
+Send a message to Ali,send_message
+Can you play the latest pop hits?,play_music
+What's the high for today?,ask_weather
+Is it windy right now?,ask_weather
+Remind me to wake up at 7,set_alarm
+What does 'namaste' mean in English?,translate_text
+Call Ali,general_query
+Set an alarm for 7 AM,set_alarm
+Can you put on some lo-fi beats?,play_music
+How do you say 'friend' in Urdu?,translate_text
+Tell Usman to come over,send_message
+I have to wake up at 5:30 tomorrow,set_alarm
+Play the album Thriller,play_music
+Remind me at 3 PM to take a break,set_alarm
+Later at 7,unknown_intent
+What is the translation of 'dog' in Hindi?,translate_text
+What are the ingredients for a cake?,general_query
+Can you translate 'goodnight' into Urdu?,translate_text
+Send a text to Mom saying I'm fine,send_message
+Do I need a jacket today?,ask_weather
+Tell Ali I said hi in Urdu,send_message
+What's 25 times 4?,general_query
+Send a text saying I am busy,send_message
+Play some music,play_music
+Set an alarm for 8 AM on weekdays,set_alarm
+Who was Albert Einstein?,general_query
+Tell my boss I am sick today,send_message
